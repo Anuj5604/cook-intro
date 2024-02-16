@@ -1,0 +1,38 @@
+.uper{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.uper h4{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+    font-weight: 500;
+    font-weight: bold;
+    margin-top:1rem ;
+
+}
+.uper h1{
+    color: rgb(42, 39, 39);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Source Code Pro', monospace;
+}
+.upper hr{
+    color: red;
+    border: 1px solid red; /*border color not working*/
+}
+.card img{
+    height:24rem;
+    /* z-index: -1; */
+}
+.personal{
+    align-items: center;
+    text-align: center;
+    border: 1px solid;
+    z-index: 1;
+    box-sizing: border-box;
+    box-shadow: -2px 2px 3px grey;
+    opacity: .9;
+}
+.card-body{
+    padding: 0px !important;
+}
